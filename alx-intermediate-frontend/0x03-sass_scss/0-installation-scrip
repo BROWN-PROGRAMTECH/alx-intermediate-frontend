@@ -1,0 +1,5 @@
+ Steps to install Sass:
+    * update package list:     sudo apt-get update
+    * install Ruby and RubyGems:   sudo apt-get install ruby-full rubygems
+    *install sass using gems:         sudo gem install sass
+    * verify sass version:     sass --version
